@@ -1,4 +1,4 @@
-# MicroClear: Advanced Noise Removal Using Diffusion Models
+# ImageDenoiser: Advanced Noise Removal Using Diffusion Models
 ## Project Overview
 
 This project implements a high-quality noise removal system for images using a custom diffusion-based model (FC-MDM). The system takes noisy images, predicts their clean version, and supports evaluation using pseudo ground truth images. The goal is to create a model that generalizes well, even on unseen data, outperforming standard denoising models.
