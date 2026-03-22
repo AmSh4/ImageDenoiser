@@ -1,0 +1,10 @@
+torch>=1.13
+torchvision
+numpy
+tqdm
+Pillow
+matplotlib
+scipy
+scikit-image
+pytorch-msssim
+pandas
